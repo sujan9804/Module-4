@@ -35,8 +35,8 @@ To write a Python program to perform addition and division operations using a cl
 ### PROGRAM
 
 ```python
-#Reg.No: 212222060013
-#Name: AKSHAIYAN S
+#Reg.No: 212222060252
+#Name: SREE DHARMA A V
 
 class cse:
     def __init__(self, a, b):
