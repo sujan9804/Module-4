@@ -23,8 +23,8 @@ To create a Python program that prompts the user for a list of grades separated 
 ### PROGRAM
 
 ```python
-#Reg.No-212222060252
-#Name- SREE DHARMA A V
+#Reg.No-212222060262
+#Name- SUJAN S B
 
 user_input = input()
 grades_str = user_input.split(',')
